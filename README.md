@@ -6,6 +6,8 @@ images matching you current weather description.
 
 I used [Svelte](https://https://svelte.dev/), [OpenWeather](https://home.openweathermap.org/), [Unsplash](https://unsplash.com/) and [Netlify](https://netlify.com/).
 
+<img src="./docs/demo.png" alt="drawing" style="width:200px;"/>
+
  Check the [site](https://hello.jeinfeldt.net).
 
 # Motivation
