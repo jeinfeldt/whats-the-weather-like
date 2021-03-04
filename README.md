@@ -30,7 +30,7 @@ netlify dev
 
 Build for production use 
 ```bash
-npm run dev
+npm run build
 ```
 
 # Deployment
