@@ -8,7 +8,7 @@ I used [Svelte](https://https://svelte.dev/), [OpenWeather](https://home.openwea
 
 <img src="./docs/demo.png" alt="drawing" style="width:200px;"/>
 
- Check the [site](https://hello.jeinfeldt.net).
+ Check the [site](https://weather.jeinfeldt.net).
 
 # Motivation
 Sometimes you just can't be bothered to look out the window.
