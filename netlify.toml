@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  functions = "functions"
+  publish = "public"
+[build.environment]
+  OPENWEATHER_API_TOKEN = ""
+  UNSPLASH_API_TOKEN = ""
