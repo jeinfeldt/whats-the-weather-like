@@ -40,8 +40,10 @@ I did this to not display the used credentials.
 And also I can now tick off Serverless Functions from my hype list.
 
 # Open Tasks
-* Make the site prettier
+* Smoother loading effect
 * Add proper error handling
+* Cleanup code
+* Cleanup styling
 
 # License
 WTFPL license <br>
