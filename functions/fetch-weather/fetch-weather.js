@@ -1,8 +1,10 @@
 const ApiClient = require('openweathermap-api-client')
-    // Configure an instance
+const KEY = process.env.OPENWEATHER_API_KEY || "";
+
+// Configure an instance
 const client = new ApiClient.OwmApiClient({
     // The API key to authenticate with. Also refered to as APPID.
-    apiKey: "",
+    apiKey: KEY,
 
     // Default endpoint to use if none was explicitly set.
     endpoint: "weather",

@@ -1,10 +1,12 @@
 const api = require('unsplash-js')
 const fetch = require('node-fetch');
+const KEY = process.env.UNSPLASH_API_KEY || "";
 
 global.fetch = fetch
 
+
 const unsplash = api.createApi({
-    accessKey: '',
+    accessKey: KEY,
 });
 
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
