@@ -40,6 +40,7 @@ I did this to not display the used credentials.
 And also I can now tick off Serverless Functions from my hype list.
 
 # Open Tasks
+* Make responsible
 * Smoother loading effect
 * Add proper error handling
 * Cleanup code
